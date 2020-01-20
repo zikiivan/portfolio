@@ -1,15 +1,16 @@
 # portfolio
 list of my creations
 
-#Smubu Africa
-#Angular based online streaming platform 
+# Smubu Africa
+Angular based online streaming platform 
 https://www.smubuafrica.com
 
-#MCF online Radio
-#ionic based online radio station
+# MCF online Radio
+ionic based online radio station
 https://play.google.com/store/apps/details?id=com.ziki.mcf2
 
-#kkparch.com
-#wordpress website for a legacy Archtectural firm in uganda.
+# kkparch
+wordpress website for a legacy Archtectural firm in uganda.
+http://kkparch.com/
 
 #All other creations are listed in the fullstack Developer CV  in pdf format.
