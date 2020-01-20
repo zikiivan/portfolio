@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 list of my creations
 
 # Smubu Africa
